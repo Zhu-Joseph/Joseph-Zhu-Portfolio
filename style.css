@@ -3,11 +3,9 @@
 body {
   margin: 0;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  background-image: url(images/backgrounds/subtle_white_mini_waves.jpg);
 }
 
 header {
-  /* background-color: #403933; */
   background-image: url(images/backgrounds/chi-people.JPG);
   background-size: cover;
   margin-bottom: 40px;
@@ -43,7 +41,7 @@ header nav ul li {
 header nav ul li a {
   color: #434E55;
   text-decoration: none;
-  padding: 0 20px 0 0;
+  padding: 0px 20px 0px 0px;
   font-family: 'Montserrat Alternates', sans-serif;
   font-weight: 650;
 }
@@ -58,7 +56,7 @@ header nav ul li a:hover {
     justify-content: space-between;
   }
 
-  .logo {
+  .title {
     margin: 14px 0 14px 20px;
     padding-top: 0;
     font-size: 42px;
